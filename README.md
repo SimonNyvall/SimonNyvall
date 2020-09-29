@@ -1,7 +1,7 @@
 ### Hi, I'm Simon a 18 year old student!
 
 -  🔭  I'm currently working on TPC home server
--  🌱  I'm currently lerning Powershell Script
+-  🌱  I'm currently lerning SQL
 -  😘  2020 Goals: Contribute to open sourse projects
 -  🥔  Fun fact: Collage student here in Sweden!
 
