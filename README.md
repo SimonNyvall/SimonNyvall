@@ -1,7 +1,7 @@
-### Hi, I'm Simon a 18 year old student!
+### Hi, I'm Simon! Born 2002 and currently a student at Nösnäs.
 
--  🔭  I'm currently working on TPC home server
--  🌱  I'm currently lerning SQL
+-  🔭  I'm currently working on Pixel Engine
+-  🌱  I'm currently lerning c++
 -  😘  2020 Goals: Contribute to open sourse projects
 -  🥔  Fun fact: Collage student here in Sweden!
 
