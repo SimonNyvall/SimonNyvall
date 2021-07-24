@@ -2,7 +2,7 @@
 
 -  🔭  I'm currently working on Pixel Engine
 -  🌱  I'm currently lerning c++
--  😘  2020 Goals: Contribute to open sourse projects
+-  😘  2021 Goals: Contribute to open sourse projects
 -  🥔  Fun fact: Collage student here in Sweden!
 
 
