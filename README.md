@@ -1,7 +1,7 @@
 ### Hi, I'm Simon! Born 2002 and currently a student at Nösnäs.
 
--  🔭  I'm currently working on Pixel Engine
--  🌱  I'm currently lerning c++
+-  🔭  I'm currently working / learning RLE compression
+-  🌱  I'm currently working in c++
 -  😘  2021 Goals: Contribute to open sourse projects
 -  🥔  Fun fact: Collage student here in Sweden!
 
