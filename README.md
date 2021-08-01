@@ -2,8 +2,8 @@
 
 -  🔭  I'm currently working / learning RLE compression
 -  🌱  I'm currently working in c++
--  😘  2021 Goals: Contribute to open sourse projects
--  🥔  Fun fact: Collage student here in Sweden!
+-  😘  2021 Goals: Contribute to open source projects
+-  🥔  Fun fact: College student here in Sweden!
 
 
 
