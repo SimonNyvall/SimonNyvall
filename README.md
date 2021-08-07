@@ -17,4 +17,4 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 />
-<img align="left" alt="gcp" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gend.co%2Fgoogle-cloud-platform&psig=AOvVaw3MGlFH6wz1gWQKEhfBcA4n&ust=1628438415685000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLjc9KOkn_ICFQAAAAAdAAAAABAD" />
+<img align="left" alt="gcp" width="26px" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" />
