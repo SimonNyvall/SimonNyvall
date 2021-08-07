@@ -1,9 +1,9 @@
-### Hi, I'm Simon! Born 2002 and currently a student at Nösnäs.
+### Hi, I'm Simon! Born 2002 and currently a home developer.
 
 -  🔭  I'm currently working / learning RLE compression
 -  🌱  I'm currently working in c++
 -  😘  2021 Goals: Contribute to open source projects
--  🥔  Fun fact: College student here in Sweden!
+-  🥔  Fun fact: Love to play guitar and listen to music
 
 
 
