@@ -18,3 +18,13 @@
 
 />
 <img align="left" alt="gcp" width="26px" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" />
+
+/>
+<img align="left" alt="linux" width="26px" src="https://i.pinimg.com/originals/c7/b8/11/c7b8113247fecd83bd9b5ed5bd3f34d5.png" />
+
+/>
+<img align="left" alt="docker" width="26px" src="https://ccie.tv/content/images/2019/08/docker-11.svg" />
+
+
+/>
+<img align="left" alt="kubernenetes" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" />
