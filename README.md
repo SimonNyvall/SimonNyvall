@@ -20,5 +20,5 @@
 <img align="left" alt="docker" width="26px" src="https://ccie.tv/content/images/2019/08/docker-11.svg" />
 <img align="left" alt="kubernenetes" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" />
 <img align="left" alt="c++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<img align="left" alt="c#" width="26px" src="https://w7.pngwing.com/pngs/340/226/png-transparent-purple-and-white-logo-c-computer-programming-software-development-programmer-marklogic-coder-miscellaneous-purple-class.png" />
+<img align="left" alt="c#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" alt="powershell" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" />
