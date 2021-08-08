@@ -8,9 +8,9 @@
 
 
 ### Contact me:
-[<img align="left" alt="simon_nyvall | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> Simon_Nyvall ]
+<img align="left" alt="simon_nyvall | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> Simon_Nyvall 
 
-[<img align="left" alt="simon.k.nyvall@gmail.com | gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" /> simon.k.nyvall@gmail.com ]
+<img align="left" alt="simon.k.nyvall@gmail.com | gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" /> simon.k.nyvall@gmail.com 
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
