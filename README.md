@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://mpng.subpng.com/20180326/ope/kisspng-github-repository-commit-version-control-github-5ab8bdf6f3ad65.7277177015220566949981.jpg"/>
+<img align="left" alt="Git" width="26px" src="https://mpng.subpng.com/20180824/xrj/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546c0b1311.5417567715351368760454.jpg"/>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="gcp" width="26px" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" />
