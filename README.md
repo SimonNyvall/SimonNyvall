@@ -1,8 +1,8 @@
 ### Hi, I'm Simon! Born 2002 and currently a home developer.
 
--  🔭  I'm currently working / learning RLE compression
--  🌱  I'm currently working in c++
--  😘  2021 Goals: Contribute to open source projects
+-  🔭  I'm currently studyinf for cloud developer at ITHS
+-  🌱  I'm currently working in c++ / c#
+-  😘  2022 Goals: Contribute to open source projects
 -  🥔  Fun fact: Love to play guitar and listen to music
 
 
