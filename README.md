@@ -2,7 +2,7 @@
 
 -  🔭  I'm currently studying for cloud developer at ITHS
 -  🌱  I'm currently working in c++ / c#
--  😘  2022 Goals: Contribute to open source projects
+-  😘  2022 Goals: Contribute to open source projects ( Focusing more on my studies right now )
 -  🥔  Fun fact: Love to play guitar and listen to music
 
 
