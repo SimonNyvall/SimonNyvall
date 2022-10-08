@@ -23,3 +23,6 @@ Aside coding on my github projects, I play the guitar, listen to music of all ge
 <img align="left" alt="c#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" alt="powershell" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" />
 <img align="left" alt="powershell" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosdownload.com%2Flogo%2Fmicrosoft-azure-logo-1024.png&f=1&nofb=1" />
+
+
+<!--START_SECTION:activity-->
