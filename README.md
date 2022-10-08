@@ -28,3 +28,5 @@ Aside coding on my github projects, I play the guitar, listen to music of all ge
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+
+<img src="https://novatorem-git-master-simonnyvall.vercel.app/api/spotify-playing" alt="SimonNyvall Spotify Now Playing" />
