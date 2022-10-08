@@ -26,3 +26,5 @@ Aside coding on my github projects, I play the guitar, listen to music of all ge
 
 
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
