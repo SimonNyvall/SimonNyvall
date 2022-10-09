@@ -1,4 +1,4 @@
-<img align="left" alt="banner" width="100%" src="photos/banner2.jpeg">
+<img align="left" alt="banner" width="100%" src="photos\cloud-banner.jpg">
 
 # Hi There, I am Simon Nyvall
 
@@ -10,23 +10,44 @@ Aside coding on my github projects, I play the guitar, listen to music of all ge
 -  🌱  I'm currently working in C++ / C# / Powershell
 -  😘  2022 Goals: Contribute to open source projects
 
-### Technolegy Stack:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="gcp" width="26px" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" />
-<img align="left" alt="linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg/1200px-Linux_Logo_in_Linux_Libertine_Font.svg.png" />
-<img align="left" alt="docker" width="26px" src="https://ccie.tv/content/images/2019/08/docker-11.svg" />
-<img align="left" alt="kubernenetes" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" />
-<img align="left" alt="c++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<img align="left" alt="c#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
-<img align="left" alt="powershell" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" />
-<img align="left" alt="powershell" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosdownload.com%2Flogo%2Fmicrosoft-azure-logo-1024.png&f=1&nofb=1" />
+---
 
+### Technolegy Stack:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="gcp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="kubernenetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+<img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="c#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="powershell" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" />
+<img align="left" alt="powershell" width="23px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+
+<br />
+<br />
+
+---
+<br />
+
+<img align="left" width="40%" alt="SimonNyvall GitHub Stats" src="https://github-readme-stats-ten-ochre-70.vercel.app/api?username=SimonNyvall&show_icon=true&theme=codeSTACKr">
+
+<img align="left" width="60%" alt="Playing Right Now" src="https://novatorem-coral-pi.vercel.app/api/spotify/?background_color=09131B">
+
+<br />
+
+<details>
+    <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 
+
 <!--END_SECTION:activity-->
 
-<img src="https://novatorem-git-master-simonnyvall.vercel.app/api/spotify-playing" alt="SimonNyvall Spotify Now Playing" />
+</details>
+
+<details>
+    <summary>My Coding Journey</summary>
+</details>
