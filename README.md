@@ -30,13 +30,13 @@ Aside coding on my github projects, I play the guitar, listen to music of all ge
 <br />
 
 ---
-<br />
 
 
-<table><tr>
-<td><img align="left" width="100%" alt="SimonNyvall GitHub Stats" src="https://github-readme-stats-ten-ochre-70.vercel.app/api?username=SimonNyvall&show_icon=true&theme=codeSTACKr"></td>
-<td><img align="left" width="90%" alt="Playing Right Now" src="https://novatorem-coral-pi.vercel.app/api/spotify/?background_color=09131B"></td>
-</tr></table>
+
+<p float="left">
+<img  width="40%" alt="SimonNyvall GitHub Stats" src="https://github-readme-stats-ten-ochre-70.vercel.app/api?username=SimonNyvall&show_icon=true&theme=codeSTACKr">
+<img  width="59%" height="80%"alt="Playing Right Now" src="https://novatorem-coral-pi.vercel.app/api/spotify/?background_color=09131B">
+</p>
 
 <br />
 
