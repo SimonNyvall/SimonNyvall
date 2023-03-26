@@ -73,7 +73,8 @@ Aside coding on my github projects, I play the guitar, listen to music of all ge
 <details>
     <summary>My Coding Journey</summary>
 
-    My coding journey began in the gymnasium, where I was stuying technology science. I was always interested in technology and how it could be used to solve problems, so coding seemed like a natural fit for me.
+    My coding journey began in the gymnasium, where I was stuying technology science. 
+    I was always interested in technology and how it could be used to solve problems, so coding seemed like a natural fit for me.
 
     My first coding project was a simple fizzbuzz application in C#. I remember struggling with the logic at first, but once I got the hang of it, I was able to create a program that I could show to other people. It was a small accomplishment, but it felt great to see something I had created actually working.
 
