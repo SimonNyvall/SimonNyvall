@@ -1,14 +1,18 @@
 <img align="left" alt="banner" width="100%" src="photos\cloud-banner.jpg">
 
+<br />
+
 # Hi There, I am Simon Nyvall
+
+<br />
 
 I am a Developer, first year Cloud Developer undergraduate. Not working at the moment, instead I focus on my studies and develop hobby projects on my spare time. My study goal is to land a job as a Devop here in Gothenberg.
 
 Aside coding on my github projects, I play the guitar, listen to music of all genres and play video games (Dota 2).
 
 -  🔭  I'm currently studying for cloud developer at ITHS
--  🌱  I'm currently working in C++ / C# / Powershell
--  😘  2022 Goals: Contribute to open source projects
+-  🌱  I'm currently working in C# / C++ / Powershell
+-  😘  2023 Goals: Develop my cloud skills
 
 ---
 
@@ -53,7 +57,7 @@ Aside coding on my github projects, I play the guitar, listen to music of all ge
 | Memory      | 64GB DDR4  |
 | Storage      | Samsung SSD 850 2TB  |
 | Graphics      | Nvidia GTX 980 TI  |
-| OS      | Ubuntu 22.10  |
+| OS      | Fedora 38  |
 
 </td>
     <td>
