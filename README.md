@@ -1,52 +1,51 @@
-<img align="left" alt="banner" width="100%" src="photos\cloud-banner.jpg">
+<img align="left" alt="banner" width="100%" src="photos\cloud-banner.gif">  
+
+<div align="center">
+
+[![](https://img.shields.io/badge/-@SimonNyvall-%23181717?style=flat-square&logo=github)](https://github.com/simonnyvall)
+[![](https://img.shields.io/badge/-Simon%20Nyvall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-chapsas/)](https://www.linkedin.com/in/simonnyvall/)
+
+</div>
+
+# Hi There, I am Simon Nyvall 👋🏻
 
 <br />
 
-# Hi There, I am Simon Nyvall
+I am a second-year Cloud Developer undergraduate. Currently, I'm not employed as I'm dedicating my time entirely to my studies and passion projects. My primary goal through my academic journey is to secure a position as a DevOps professional in Sweden.
 
-<br />
+When I'm not coding for my GitHub projects, I indulge in playing the guitar 🎸, exploring music across all genres 🎶, and diving into video games 👾, particularly Dota 2.
 
-I am a Developer, first year Cloud Developer undergraduate. Not working at the moment, instead I focus on my studies and develop hobby projects on my spare time. My study goal is to land a job as a Devop here in Gothenberg.
+- 🔭 Studying Cloud Development at ITHS.
+- 🌱 Currently honing my skills in F#, C#, and Bash.
+- 😘 2023 Goals: Advance my cloud capabilities.
 
-Aside coding on my github projects, I play the guitar, listen to music of all genres and play video games (Dota 2).
 
--  🔭  I'm currently studying for cloud developer at ITHS
--  🌱  I'm currently working in C# / C++ / Powershell
--  😘  2023 Goals: Develop my cloud skills
+
+
+<div align="center">
+
+## Technology Stack 🧰
+<img  alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;&nbsp;
+<img  alt="docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
+<img alt="kubernenetes" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />&nbsp;&nbsp;
+<img  alt="c++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;
+<img  alt="c#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" />&nbsp;&nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;&nbsp;
+<img  alt="powershell" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+
+</div>
 
 ---
 
-### Technology Stack:
-<img align="left" alt="Rider" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
-<img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="kubernenetes" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-<img align="left" alt="c++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="c#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="powershell" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" />
-<img align="left" alt="powershell" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-
-<br />
-<br />
-
----
-
-
-
-<p float="left">
+<p alagn="center">
 <img  width="40%" alt="SimonNyvall GitHub Stats" src="https://github-readme-stats-ten-ochre-70.vercel.app/api?username=SimonNyvall&show_icon=true&theme=codeSTACKr">
 <img  width="59%" height="80%"alt="Playing Right Now" src="https://novatorem-coral-pi.vercel.app/api/spotify/?background_color=09131B">
 </p>
 
-<br />
-
-
 <details>
 <summary>Computer Specs</summary>
+  <div align="center">
 <table>
   <tr>
     <td>
@@ -73,10 +72,8 @@ Aside coding on my github projects, I play the guitar, listen to music of all ge
    </td>
   </tr>
 </table>
+</div>
 </details>
-
-
-
 
 <details>
     <summary>My Coding Journey</summary>
