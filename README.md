@@ -26,7 +26,7 @@ When I'm not coding for my GitHub projects, I indulge in playing the guitar 🎸
 
 ## Technology Stack 🧰
 <img  alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;&nbsp;
-<img  alt="docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
+<img  alt="docker" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />&nbsp;&nbsp;
 <img alt="terraform" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />&nbsp;&nbsp;
 <img  alt="c++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;
 <img  alt="c#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
