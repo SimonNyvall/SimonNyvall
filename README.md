@@ -56,7 +56,7 @@ When I'm not coding for my GitHub projects, I indulge in playing the guitar 🎸
 | Memory      | 64GB DDR4  |
 | Storage      | Samsung SSD 850 2TB  |
 | Graphics      | Nvidia GTX 980 TI  |
-| OS      | Fedora 38  |
+| OS      | Lubuntu 23.10 / I3  |
 
 </td>
     <td>
