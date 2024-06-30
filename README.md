@@ -11,13 +11,13 @@
 
 <br />
 
-I am a second-year Cloud Developer undergraduate. Currently, I'm not employed as I'm dedicating my time entirely to my studies and passion projects. My primary goal through my academic journey is to secure a position as a DevOps professional in Sweden.
+Currently, I'm not employed, but in the mean time I indulge coding my passion projects 📈. My primary goal is to become the best programmer I can be 💻. Simply beacuse I enjoy problem solving.
 
 When I'm not coding for my GitHub projects, I indulge in playing the guitar 🎸, exploring music across all genres 🎶, and diving into video games 👾, particularly Dota 2.
 
-- 🔭 Studying Cloud Development at ITHS.
+- 🔭 Graduated Cloud Development at ITHS.
 - 🌱 Currently honing my skills in F#, C#, and Bash.
-- 😘 2023 Goals: Advance my cloud capabilities.
+- 😘 2024 Goals: develop a deeper understanding for complex Yeah, systems.
 
 
 
@@ -56,7 +56,7 @@ When I'm not coding for my GitHub projects, I indulge in playing the guitar 🎸
 | Memory      | 64GB DDR4  |
 | Storage      | Samsung SSD 850 2TB  |
 | Graphics      | Nvidia GTX 980 TI  |
-| OS      | Lubuntu 23.10 / I3  |
+| OS      | Arch Linux BTW  |
 
 </td>
     <td>
@@ -73,38 +73,5 @@ When I'm not coding for my GitHub projects, I indulge in playing the guitar 🎸
   </tr>
 </table>
 </div>
-</details>
-
-<details>
-    <summary>My Coding Journey</summary>
-  
-  ```
-    My coding journey began in the gymnasium, where I was stuying technology science. 
-    I was always interested in technology and how it could be used to solve problems, so coding seemed like a natural 
-    fit for me.
-  ```
-  ```
-    My first coding project was a simple fizzbuzz application in C#. 
-    I remember struggling with the logic at first, but once I got the hang of it, I was able to create a program 
-    that I could show to other people. 
-    It was a small accomplishment, but it felt great to see something I had created actually working.
-  ```
-  ```
-    As I continued to learn, I found that I preferred hands-on projects to traditional classroom learning. 
-    I would find online tutorials or open-source projects to work on in my spare time, and I found that I learned 
-    much more quickly and deeply through this kind of immersive experience.
-  ```
-  ```
-    Of course, there have been challenges along the way as well. 
-    I remember getting stuck on a particularly difficult bug in a project I was working on, and feeling like I would 
-    never be able to solve it. 
-    But I persevered and eventually figured it out, and that experience taught me a lot about problem-solving and 
-    resilience.
-  ```
-  ```
-    Looking back on my coding journey, I feel proud of how far I've come and excited about where I still have to go. 
-    I know that there will be more challenges and setbacks in the future, but I also know that I have the skills and 
-    the determination to overcome them.
-  ```
 </details>
 
