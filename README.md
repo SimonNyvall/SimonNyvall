@@ -17,7 +17,7 @@ When I'm not coding for my GitHub projects, I indulge in playing the guitar 🎸
 
 - 🔭 Graduated Cloud Development at ITHS.
 - 🌱 Currently honing my skills in F#, C#, and Bash.
-- 😘 2024 Goals: develop a deeper understanding for complex Yeah, systems.
+- 😘 2024 Goals: develop a deeper understanding for complex systems.
 
 
 
