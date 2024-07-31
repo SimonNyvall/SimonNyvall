@@ -11,16 +11,12 @@
 
 <br />
 
-Currently, I'm not employed, but in the mean time I indulge coding my passion projects 📈. My primary goal is to become the best programmer I can be 💻. Simply beacuse I enjoy problem solving.
+I'm currently on the look out for a role in backend development, ideally writing C# or F#. I'd espexially love to work at a startup on a tight knit team where I can make an impace quickly. If you're hiring, let's chat!
 
-When I'm not coding for my GitHub projects, I indulge in playing the guitar 🎸, exploring music across all genres 🎶, and diving into video games 👾, particularly Dota 2.
-
-- 🔭 Graduated Cloud Development at ITHS.
-- 🌱 Currently honing my skills in F#, C#, and Bash.
-- 😘 2024 Goals: develop a deeper understanding for complex systems.
-
-
-
+- 💻 I've been coding for 5 years
+- 🎓 Graduated as a .NET Cloud Development at IT-Högskolan
+- 🧬 Currently developing a deeper understanding for underlaying systems
+- ☕ Drink 4 cups of coffee per day
 
 <div align="center">
 
