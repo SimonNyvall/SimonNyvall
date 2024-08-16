@@ -7,7 +7,7 @@
 
 </div>
 
-# Hi There, I am Simon Nyvall 👋🏻
+# Hi There 👋🏻
 
 <br />
 
