@@ -11,12 +11,12 @@
 
 <br />
 
-I'm currently on the look out for a role in backend development, ideally writing C# or F#. I'd espexially love to work at a startup on a tight knit team where I can make an impace quickly. If you're hiring, let's chat!
-
-- 💻 I've been coding for 5 years
-- 🎓 Graduated as a .NET Cloud Development at IT-Högskolan
-- 🧬 Currently developing a deeper understanding for underlaying systems
-- ☕ Drink 4 cups of coffee per day
+I’m an average **Vim enjoyer** with a deep passion for software development. If you acquire a backstage pass into my life, you’ll find ⬇️
+- 🎵 A wired but wide music taste (from Britney Spears to DragonForce)
+- 🎓 A graduation diploma from IT-Högskolan in **.NET Cloud Development**
+- 📚 A never-ending quest for knowledge and self-improvement in software.
+- ☕ A collection of all kinds of coffee beans for my “healthy” addiction.
+- 🔐 An interest in lock-picking, which has become one of my favorite random hobbies (debugging IRL).
 
 <div align="center">
 
