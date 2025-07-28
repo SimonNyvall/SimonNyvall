@@ -39,6 +39,46 @@ I’m an average **Vim enjoyer** with a deep passion for software development. I
 <img  width="59%" height="80%"alt="Playing Right Now" src="https://novatorem-coral-pi.vercel.app/api/spotify/?background_color=09131B">
 </p>
 
+<img src="./photos/github-snake.svg" />
+
+## Featured Projects 🚀
+### [B-branch 🌿](https://github.com/SimonNyvall/B-branch)
+A better git branch tool, inspired by GitButler.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SimonNyvall&repo=B-branch&
+theme=codeSTACKr" />
+
+**Tech Stack:**
+
+<img  alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;&nbsp;
+<img  alt="c#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
+
+---
+### [Aurebesh 🌌](https://github.com/SimonNyvall/Aurebesh)
+
+A complete Unix shell with Star Wars easter eggs.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SimonNyvall&repo=Aurebesh&theme=codeSTACKr" />
+
+**Tech Stack:**
+
+<img alt="linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&nbsp;&nbsp;
+<img  alt="c++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;
+---
+
+### [WebServer 🌐](https://github.com/SimonNyvall/WebServer)
+
+A web server platform built from the ground up.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SimonNyvall&repo=WebServer&theme=codeSTACKr" />
+
+**Tech Stack:**
+
+<img  alt="powershell" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />&nbsp;&nbsp;
+<img  alt="c#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
+
+---
+
 <details>
 <summary>Computer Specs</summary>
   <div align="center">
